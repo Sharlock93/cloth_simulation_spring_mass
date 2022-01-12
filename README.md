@@ -7,3 +7,6 @@ will be written to a file and then combined in a script using ffmpeg
 
 
 Compiling is staright forward, just compile the `main.c` file, this is a single file project
+
+Screenshot
+![Cloth on a Sphere](https://i.imgur.com/9TpuFi0.png)
